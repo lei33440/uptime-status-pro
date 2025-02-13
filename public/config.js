@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'MJJ网站监控',
+  SiteName: '雾起数据网站监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
